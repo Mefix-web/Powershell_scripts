@@ -1,0 +1,1 @@
+This script deletes dump files that are older than X days. Value can be changed in the script. Everything depends on need

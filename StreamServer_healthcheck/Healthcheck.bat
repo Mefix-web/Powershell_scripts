@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy UnRestricted -File "Path_to_powershell.ps1"

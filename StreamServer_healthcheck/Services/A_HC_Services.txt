@@ -1,0 +1,6 @@
+HC_PRD
+HC_Batch_PRD
+HC_RFC_PRD
+HC_SGW_PRD
+HC_StatusMessenger_PRD
+HC_TSK_PRD

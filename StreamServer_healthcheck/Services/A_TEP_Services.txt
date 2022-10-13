@@ -1,0 +1,6 @@
+TEP_Batch_PRD
+TEP_PRD
+TEP_RFC_PRD
+TEP_SGW_PRD
+TEP_StatusMessenger_PRD
+TEP_TSK_PRD

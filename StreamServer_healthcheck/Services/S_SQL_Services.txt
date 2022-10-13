@@ -1,0 +1,5 @@
+SQL Full-text Filter Daemon Launcher (OTP)
+SQL Server (OTP)
+SQL Server Agent (OTP)
+SQL Server Browser
+SQL Server VSS Writer

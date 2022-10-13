@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy UnRestricted -File "Path\Stop SAP Services.ps1" 3

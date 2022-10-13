@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy UnRestricted -File "Path\Restart SAP Services.ps1" 1 

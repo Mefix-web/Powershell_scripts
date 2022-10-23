@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy Unrestricted -File "PATH\Snapshots_Removal_Other.ps1"
